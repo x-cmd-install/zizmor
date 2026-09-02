@@ -1,0 +1,60 @@
+about:
+  description: Static analysis for GitHub Actions
+  license: MIT
+  homepage: http://docs.zizmor.sh/
+  head: 5526208
+  archived: false
+  latestVersion: v1.30.0
+  collectedAt: 2026-09-02T04:21:39Z
+timeline:
+  created: 2024-08-19
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-30
+popularity:
+  star: 6428
+  watcher: 14
+  fork: 245
+  release: 90
+  contributor: 111
+  pullRequest: 124
+  issue: 688
+language:
+  Rust: 1838438
+  Python: 29885
+  Makefile: 1462
+  Dockerfile: 1285
+  Shell: 1015
+totalLine: 1872085
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-04
+    release: 7
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-06
+    release: 18
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-07
+    release: 43
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
