@@ -5,19 +5,19 @@ about:
   head: 4cdfcca
   archived: false
   latestVersion: "v1.30.0"
-  collectedAt: 2026-09-07T05:56:46Z
+  collectedAt: 2026-09-07T18:40:43Z
 timeline:
   created: 2024-08-19
   lastCommit: 2026-09-04
   lastRelease: 2026-08-30
 popularity:
-  star: 6455
+  star: 6458
   watcher: 15
   fork: 247
   release: 90
   contributor: 112
-  pullRequest: 1597
-  issue: 693
+  pullRequest: 1599
+  issue: 694
 language:
   Rust: 1839843
   Python: 29885
@@ -77,13 +77,13 @@ recent:
 total:
   release: 90
   mergedPR: 1476
-  openPR: 25
+  openPR: 27
   closedIssue: 555
-  openIssue: 138
+  openIssue: 139
   commit: 1556
 ---
 path: /home/runner/.x-repo/github.com/woodruffw/zizmor
-collectedAt: 2026-09-07T05:56:47Z
+collectedAt: 2026-09-07T18:40:45Z
 loc:
   Rust:
     code: 44386
@@ -159,7 +159,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:56:48+00:00
+  collectedAt: 2026-09-07T18:40:46+00:00
   platform:
     darwin/arm64:
       name:  zizmor-aarch64-apple-darwin.tar.gz
