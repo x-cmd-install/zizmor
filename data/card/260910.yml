@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.30.1"
   latestRelease: "v1.30.1"
   latestPrerelease: "v1.30.0-rc1"
-  collectedAt: 2026-09-10T20:19:14Z
+  collectedAt: 2026-09-10T23:26:11Z
 timeline:
   created: 2024-08-19
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-08-13
 popularity:
-  star: 6476
+  star: 6477
   watcher: 15
   fork: 248
   release: 91
@@ -87,7 +87,7 @@ total:
   commit: 1561
 ---
 path: /home/runner/.x-repo/github.com/woodruffw/zizmor
-collectedAt: 2026-09-10T20:19:16Z
+collectedAt: 2026-09-10T23:26:16Z
 loc:
   Rust:
     code: 44386
