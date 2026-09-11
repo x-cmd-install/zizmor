@@ -38,11 +38,11 @@ x install zizmor
 
 ## 流行度
 
-- **Star**: 6,477 · **Fork**: 248 · **开放 issue**: 699 · **贡献者**: 112
+- **Star**: 6,480 · **Fork**: 248 · **开放 issue**: 701 · **贡献者**: 112
 
 ## 累计统计
 
-- **发布数**: 91 · **已合并 PR**: 1482 · **开放 PR**: 24 · **已关闭 issue**: 563 · **开放 issue**: 136 · **提交数**: 1562
+- **发布数**: 91 · **已合并 PR**: 1482 · **开放 PR**: 24 · **已关闭 issue**: 564 · **开放 issue**: 137 · **提交数**: 1562
 
 ## 最近活动
 
@@ -86,4 +86,4 @@ zizmor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:10:46Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:37:56Z._
