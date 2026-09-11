@@ -1,12 +1,35 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: aur
+  srcname: zizmor-git
+  binname: zizmor-git
+  visiblename: zizmor-git
+  version: 1.15.2.r908.ac4cab32
+  origversion: 1.15.2.r908.ac4cab32-1
+  status: rolling
+  summary: A static analysis tool for GitHub Actions
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
   srcname: zizmor
   binname: zizmor
   visiblename: zizmor
-  version: 1.30.0
-  origversion: 1.30.0-1
+  version: 1.16.0
+  origversion: 1.16.0-r0
   status: outdated
-  summary: A static analysis tool for GitHub Actions
+  summary: Static analysis for GitHub Actions
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor-bashcomp
+  visiblename: zizmor-bashcomp
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions (bash completions)
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -87,40 +110,6 @@
   origversion: 1.30.1-1
   status: newest
   summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
-- repo: aur
-  srcname: zizmor-git
-  binname: zizmor-git
-  visiblename: zizmor-git
-  version: 1.15.2.r908.ac4cab32
-  origversion: 1.15.2.r908.ac4cab32-1
-  status: rolling
-  summary: A static analysis tool for GitHub Actions
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
-  binname: zizmor-bashcomp
-  visiblename: zizmor-bashcomp
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions (bash completions)
   licenses:
     - MIT
 - repo: chimera
@@ -236,9 +225,20 @@
   srcname: zizmor
   binname: zizmor
   visiblename: zizmor
-  version: 1.30.0
-  origversion: 1.30.0-1
-  status: outdated
+  version: 1.30.1
+  origversion: 1.30.1-1
+  status: newest
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.30.1
+  origversion: 1.30.1-1
+  status: newest
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
