@@ -1,37 +1,3 @@
-- repo: aur
-  srcname: zizmor-git
-  binname: zizmor-git
-  visiblename: zizmor-git
-  version: 1.15.2.r908.ac4cab32
-  origversion: 1.15.2.r908.ac4cab32-1
-  status: rolling
-  summary: A static analysis tool for GitHub Actions
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
-  binname: zizmor-bashcomp
-  visiblename: zizmor-bashcomp
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions (bash completions)
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -112,6 +78,40 @@
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
+- repo: aur
+  srcname: zizmor-git
+  binname: zizmor-git
+  visiblename: zizmor-git
+  version: 1.15.2.r908.ac4cab32
+  origversion: 1.15.2.r908.ac4cab32-1
+  status: rolling
+  summary: A static analysis tool for GitHub Actions
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor-bashcomp
+  visiblename: zizmor-bashcomp
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions (bash completions)
+  licenses:
+    - MIT
 - repo: chimera
   subrepo: user
   srcname: zizmor
@@ -177,24 +177,6 @@
   origversion: null
   status: rolling
   summary: Find security issues in GitHub Actions setups
-- repo: opensuse_security_tumbleweed
-  srcname: zizmor
-  binnames:
-    - zizmor
-    - zizmor-debuginfo
-    - zizmor-debugsource
-    - zizmor-bash-completion
-    - zizmor-fish-completion
-    - zizmor-zsh-completion
-  visiblename: zizmor
-  version: 1.29.0
-  origversion: 1.29.0-77.3
-  status: outdated
-  summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: macports
   srcname: security/zizmor
   binname: zizmor
@@ -358,6 +340,24 @@
     - MIT
   categories:
     - Unspecified
+- repo: opensuse_security_tumbleweed
+  srcname: zizmor
+  binnames:
+    - zizmor
+    - zizmor-debuginfo
+    - zizmor-debugsource
+    - zizmor-bash-completion
+    - zizmor-fish-completion
+    - zizmor-zsh-completion
+  visiblename: zizmor
+  version: 1.29.0
+  origversion: 1.29.0-77.3
+  status: outdated
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: parabola
   subrepo: extra
   srcname: zizmor
@@ -389,9 +389,9 @@
 - repo: slackbuilds
   srcname: development/zizmor
   visiblename: development/zizmor
-  version: 1.30.0
+  version: 1.30.1
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - andrew.clemons@gmail.com
   categories:
