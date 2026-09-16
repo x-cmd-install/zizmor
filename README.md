@@ -38,7 +38,7 @@ Total: **67,802** lines of code across **537** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,511 · **Forks**: 252 · **Open issues**: 703 · **Contributors**: 113
+- **Stars**: 6,518 · **Forks**: 252 · **Open issues**: 703 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **67,802** lines of code across **537** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 43 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 91 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 43 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 91 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:29:02Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:32:33Z._
