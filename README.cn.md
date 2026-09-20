@@ -4,7 +4,7 @@
 
 Static analysis for GitHub Actions
 
-![zizmor](https://repo.x-cmd.io/zizmor.svg?lang=zh)
+[![x-cmd/install — zizmor Code Quality Monitoring Repo Card](https://repo.x-cmd.io/zizmor.svg?lang=zh)](https://x-cmd.com/install/zizmor)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install zizmor
 
 ## 流行度
 
-- **Star**: 6,531 · **Fork**: 252 · **开放 issue**: 704 · **贡献者**: 113
+- **Star**: 6,537 · **Fork**: 252 · **开放 issue**: 704 · **贡献者**: 113
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install zizmor
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 43 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 91 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 43 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 91 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ zizmor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:20:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:22:21Z._
