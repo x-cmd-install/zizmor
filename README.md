@@ -14,13 +14,13 @@ x install zizmor
 
 ## Code insight
 
-Total: **68,207** lines of code across **542** files in the top 5 languages.
+Total: **68,426** lines of code across **543** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 45,126 | 2,403 | 5,179 | 161 |
+| Rust | 45,298 | 2,406 | 5,203 | 161 |
 | Json | 12,420 | 0 | 114 | 36 |
-| Yaml | 9,169 | 1,129 | 1,531 | 319 |
+| Yaml | 9,216 | 1,132 | 1,537 | 320 |
 | Python | 863 | 116 | 206 | 13 |
 | Toml | 361 | 11 | 46 | 13 |
 
@@ -33,27 +33,27 @@ Total: **68,207** lines of code across **542** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.30.1` (2026-09-09)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-26
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,575 · **Forks**: 256 · **Open issues**: 707 · **Contributors**: 113
+- **Stars**: 6,579 · **Forks**: 256 · **Open issues**: 707 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 1498 · **Open PRs**: 25 · **Closed issues**: 570 · **Open issues**: 137 · **Commits**: 1578
+- **Releases**: 91 · **Merged PRs**: 1500 · **Open PRs**: 23 · **Closed issues**: 570 · **Open issues**: 137 · **Commits**: 1580
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-29 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-30 | 40 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-05 | 91 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-30 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-01 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-06 | 91 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:07:59Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:04:22Z._
