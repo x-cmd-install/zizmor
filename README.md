@@ -33,27 +33,27 @@ Total: **68,410** lines of code across **544** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.30.1` (2026-09-09)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,596 · **Forks**: 259 · **Open issues**: 709 · **Contributors**: 114
+- **Stars**: 6,608 · **Forks**: 262 · **Open issues**: 709 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 91 · **Merged PRs**: 1507 · **Open PRs**: 24 · **Closed issues**: 572 · **Open issues**: 137 · **Commits**: 1587
+- **Releases**: 91 · **Merged PRs**: 1508 · **Open PRs**: 25 · **Closed issues**: 572 · **Open issues**: 137 · **Commits**: 1588
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 40 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-09 | 91 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-31 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-10 | 91 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:57:37Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:42:31Z._
