@@ -14,13 +14,13 @@ x install zizmor
 
 ## Code insight
 
-Total: **69,143** lines of code across **551** files in the top 5 languages.
+Total: **69,203** lines of code across **554** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 45,891 | 2,433 | 5,249 | 162 |
+| Rust | 45,943 | 2,436 | 5,268 | 164 |
 | Json | 12,425 | 0 | 114 | 36 |
-| Yaml | 9,310 | 1,134 | 1,565 | 326 |
+| Yaml | 9,318 | 1,134 | 1,568 | 327 |
 | Python | 863 | 116 | 206 | 13 |
 | Toml | 379 | 10 | 49 | 14 |
 
@@ -32,38 +32,38 @@ Total: **69,143** lines of code across **551** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.31.0` (2026-10-15)
-- **Last commit**: 2026-10-15
+- **Latest**: `v1.31.1` (2026-10-15)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,711 · **Forks**: 269 · **Open issues**: 714 · **Contributors**: 116
+- **Stars**: 6,715 · **Forks**: 269 · **Open issues**: 716 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1527 · **Open PRs**: 25 · **Closed issues**: 576 · **Open issues**: 138 · **Commits**: 1607
+- **Releases**: 94 · **Merged PRs**: 1530 · **Open PRs**: 27 · **Closed issues**: 577 · **Open issues**: 139 · **Commits**: 1610
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 38 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-25 | 92 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-16 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-17 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-18 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-19 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-21 | 40 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-26 | 94 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [zizmor-aarch64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.0/zizmor-aarch64-apple-darwin.tar.gz) | 8.1 MiB | `native/darwin/arm64` |
-| [zizmor-aarch64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.0/zizmor-aarch64-unknown-linux-gnu.tar.gz) | 8.5 MiB | `native/linux/arm64/glibc` |
-| [zizmor-x86_64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.0/zizmor-x86_64-apple-darwin.tar.gz) | 8.6 MiB | `native/darwin/x64` |
-| [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.31.0/zizmor-x86_64-pc-windows-msvc.zip) | 8.0 MiB | `native/win/x64` |
-| [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.0/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 8.9 MiB | `native/linux/x64/glibc` |
+| [zizmor-aarch64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.1/zizmor-aarch64-apple-darwin.tar.gz) | 8.1 MiB | `native/darwin/arm64` |
+| [zizmor-aarch64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.1/zizmor-aarch64-unknown-linux-gnu.tar.gz) | 8.5 MiB | `native/linux/arm64/glibc` |
+| [zizmor-x86_64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.1/zizmor-x86_64-apple-darwin.tar.gz) | 8.6 MiB | `native/darwin/x64` |
+| [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.31.1/zizmor-x86_64-pc-windows-msvc.zip) | 8.0 MiB | `native/win/x64` |
+| [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.31.1/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 8.8 MiB | `native/linux/x64/glibc` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:40:00Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:42:32Z._
