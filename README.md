@@ -14,11 +14,11 @@ x install zizmor
 
 ## Code insight
 
-Total: **70,149** lines of code across **558** files in the top 5 languages.
+Total: **70,151** lines of code across **558** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 46,617 | 2,452 | 5,355 | 166 |
+| Rust | 46,619 | 2,452 | 5,355 | 166 |
 | Json | 12,669 | 0 | 114 | 37 |
 | Yaml | 9,340 | 1,135 | 1,572 | 328 |
 | Python | 867 | 116 | 207 | 13 |
@@ -33,27 +33,27 @@ Total: **70,149** lines of code across **558** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.31.1` (2026-10-15)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 6,804 · **Forks**: 274 · **Open issues**: 728 · **Contributors**: 118
+- **Stars**: 6,819 · **Forks**: 274 · **Open issues**: 729 · **Contributors**: 118
 
 ## Totals (cumulative)
 
-- **Releases**: 94 · **Merged PRs**: 1550 · **Open PRs**: 25 · **Closed issues**: 586 · **Open issues**: 142 · **Commits**: 1630
+- **Releases**: 94 · **Merged PRs**: 1551 · **Open PRs**: 25 · **Closed issues**: 588 · **Open issues**: 141 · **Commits**: 1631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-30 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-01 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-02 | 38 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-07 | 86 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-29 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-30 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-31 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-02 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-03 | 37 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-08 | 85 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **70,149** lines of code across **558** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **38** distros on [repology.org](https://repology.org/project/zizmor). **17** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **38** distros on [repology.org](https://repology.org/project/zizmor). **18** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:50:24Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T07:04:00Z._
