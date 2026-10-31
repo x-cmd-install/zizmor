@@ -1,59 +1,10 @@
-- repo: chimera
-  subrepo: user
+- repo: crates_io
   srcname: zizmor
-  binname: zizmor-doc
-  visiblename: zizmor-doc
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions (documentation)
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: zizmor
-  binname: zizmor
   visiblename: zizmor
   version: 1.31.1
-  origversion: 1.31.1-1
+  origversion: null
   status: newest
-  summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
-- repo: aur
-  srcname: zizmor-git
-  binname: zizmor-git
-  visiblename: zizmor-git
-  version: 1.15.2.r908.ac4cab32
-  origversion: 1.15.2.r908.ac4cab32-1
-  status: rolling
-  summary: A static analysis tool for GitHub Actions
-  maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
   summary: Static analysis for GitHub Actions
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
-  binname: zizmor-bashcomp
-  visiblename: zizmor-bashcomp
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions (bash completions)
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -123,6 +74,62 @@
     - MIT
   categories:
     - Development/Tools
+- repo: arch
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.31.1
+  origversion: 1.31.1-1
+  status: newest
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
+- repo: aur
+  srcname: zizmor-git
+  binname: zizmor-git
+  visiblename: zizmor-git
+  version: 1.15.2.r908.ac4cab32
+  origversion: 1.15.2.r908.ac4cab32-1
+  status: rolling
+  summary: A static analysis tool for GitHub Actions
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor-bashcomp
+  visiblename: zizmor-bashcomp
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions (bash completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor-doc
+  visiblename: zizmor-doc
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions (documentation)
+  licenses:
+    - MIT
 - repo: chimera
   subrepo: user
   srcname: zizmor
@@ -156,13 +163,6 @@
   summary: Static analysis for GitHub Actions (zsh completions)
   licenses:
     - MIT
-- repo: crates_io
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.31.1
-  origversion: null
-  status: newest
-  summary: Static analysis for GitHub Actions
 - repo: crates_io
   srcname: zizmor
   visiblename: zizmor
