@@ -1,10 +1,25 @@
-- repo: crates_io
+- repo: nix_stable_25_05
   srcname: zizmor
   visiblename: zizmor
-  version: 1.31.1
+  version: 1.8.0
   origversion: null
-  status: newest
-  summary: Static analysis for GitHub Actions
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -166,7 +181,14 @@
 - repo: crates_io
   srcname: zizmor
   visiblename: zizmor
-  version: 1.32.0-rc1
+  version: 1.31.1
+  origversion: null
+  status: newest
+  summary: Static analysis for GitHub Actions
+- repo: crates_io
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.32.0-rc2
   origversion: null
   status: devel
   summary: Static analysis for GitHub Actions
@@ -210,28 +232,6 @@
     - MIT
   categories:
     - security
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.30.0
-  origversion: 1.30.0-1
-  status: outdated
-  summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.30.1
-  origversion: 1.30.1-1
-  status: outdated
-  summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: zizmor
@@ -277,28 +277,6 @@
   srcname: zizmor
   visiblename: zizmor
   version: 0.2.1
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.8.0
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.19.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
@@ -401,6 +379,14 @@
   binname: zizmor
   visiblename: zizmor
   version: 1.32.0rc1
+  origversion: null
+  status: legacy
+  summary: Static analysis for GitHub Actions
+- repo: pypi
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.32.0rc2
   origversion: null
   status: devel
   summary: Static analysis for GitHub Actions
