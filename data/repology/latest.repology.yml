@@ -1,25 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.8.0
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.19.0
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -81,7 +59,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: 1.31.1-alt1
-  status: newest
+  status: outdated
   summary: Static analysis for GitHub Actions
   maintainers:
     - dutyrok@altlinux.org
@@ -96,7 +74,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: 1.31.1-1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
@@ -181,16 +159,9 @@
 - repo: crates_io
   srcname: zizmor
   visiblename: zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
   status: newest
-  summary: Static analysis for GitHub Actions
-- repo: crates_io
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.32.0-rc2
-  origversion: null
-  status: devel
   summary: Static analysis for GitHub Actions
 - repo: freebsd
   srcname: devel/zizmor
@@ -198,7 +169,7 @@
   visiblename: devel/zizmor
   version: 1.31.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Static analysis for GitHub Actions
   maintainers:
     - tagattie@freebsd.org
@@ -207,7 +178,7 @@
 - repo: homebrew
   srcname: zizmor
   visiblename: zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
   status: newest
   summary: Find security issues in GitHub Actions setups
@@ -239,7 +210,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: 1.31.1-1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
@@ -249,7 +220,7 @@
   visiblename: mingw-w64-clang-x86_64-zizmor
   version: 1.31.1
   origversion: 1.31.1-1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
     - spdx:MIT
@@ -259,7 +230,7 @@
   visiblename: mingw-w64-clang-aarch64-zizmor
   version: 1.31.1
   origversion: 1.31.1-1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
     - spdx:MIT
@@ -269,7 +240,7 @@
   visiblename: mingw-w64-ucrt-x86_64-zizmor
   version: 1.31.1
   origversion: 1.31.1-1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
     - spdx:MIT
@@ -284,12 +255,34 @@
     - thomas@gerbet.me
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.8.0
+  origversion: null
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: zizmor
   visiblename: zizmor
   version: 1.31.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
   maintainers:
     - thomas@gerbet.me
@@ -300,7 +293,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
   maintainers:
     - thomas@gerbet.me
@@ -312,7 +305,7 @@
   visiblename: devel/zizmor
   version: 1.31.1
   origversion: null
-  status: newest
+  status: outdated
   summary: static analysis tool for GitHub Actions
   maintainers:
     - tb@openbsd.org
@@ -331,7 +324,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: 1.31.1-1.1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
@@ -349,7 +342,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: 1.31.1-83.1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
@@ -362,7 +355,7 @@
   visiblename: zizmor
   version: 1.31.1
   origversion: 1.31.1-1
-  status: newest
+  status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
@@ -370,31 +363,15 @@
   srcname: zizmor
   binname: zizmor
   visiblename: zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
   status: newest
-  summary: Static analysis for GitHub Actions
-- repo: pypi
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.32.0rc1
-  origversion: null
-  status: legacy
-  summary: Static analysis for GitHub Actions
-- repo: pypi
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.32.0rc2
-  origversion: null
-  status: devel
   summary: Static analysis for GitHub Actions
 - repo: scoop
   subrepo: main
   binname: zizmor
   visiblename: zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
   status: newest
   licenses:
@@ -404,7 +381,7 @@
   visiblename: development/zizmor
   version: 1.31.1
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - andrew.clemons@gmail.com
   categories:
