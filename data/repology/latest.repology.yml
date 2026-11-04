@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: zizmor
+  visiblename: zizmor
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find security issues in GitHub Actions setups
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -167,9 +174,9 @@
   srcname: devel/zizmor
   binname: zizmor
   visiblename: devel/zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Static analysis for GitHub Actions
   maintainers:
     - tagattie@freebsd.org
@@ -181,13 +188,6 @@
   version: 1.32.0
   origversion: null
   status: newest
-  summary: Find security issues in GitHub Actions setups
-- repo: homebrew
-  srcname: zizmor
-  visiblename: zizmor
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: Find security issues in GitHub Actions setups
 - repo: macports
   srcname: security/zizmor
@@ -303,9 +303,9 @@
   srcname: devel/zizmor
   binname: zizmor
   visiblename: devel/zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
-  status: outdated
+  status: newest
   summary: static analysis tool for GitHub Actions
   maintainers:
     - tb@openbsd.org
