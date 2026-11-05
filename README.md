@@ -38,22 +38,22 @@ Total: **70,127** lines of code across **560** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,872 · **Forks**: 274 · **Open issues**: 740 · **Contributors**: 119
+- **Stars**: 6,887 · **Forks**: 276 · **Open issues**: 743 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 1564 · **Open PRs**: 28 · **Closed issues**: 591 · **Open issues**: 149 · **Commits**: 1644
+- **Releases**: 95 · **Merged PRs**: 1564 · **Open PRs**: 28 · **Closed issues**: 591 · **Open issues**: 152 · **Commits**: 1644
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-05 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-06 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-08 | 15 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-09 | 37 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-14 | 85 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-06 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-06 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-07 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-09 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-10 | 37 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-15 | 84 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Reported by **34** distros on [repology.org](https://repology.org/project/zizmor
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.31.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.32.0` | ✅ latest |
 | Nix unstable | `1.31.1` | ⚠️ outdated |
 | Alpine edge | `1.27.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.31.1` | ⚠️ outdated |
@@ -86,4 +86,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:42:31Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:51:58Z._
