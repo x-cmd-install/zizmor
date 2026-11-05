@@ -1,10 +1,14 @@
-- repo: homebrew
+- repo: nix_stable_25_05
   srcname: zizmor
   visiblename: zizmor
-  version: HEAD
+  version: 1.8.0
   origversion: null
-  status: rolling
-  summary: Find security issues in GitHub Actions setups
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -189,6 +193,13 @@
   origversion: null
   status: newest
   summary: Find security issues in GitHub Actions setups
+- repo: homebrew
+  srcname: zizmor
+  visiblename: zizmor
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find security issues in GitHub Actions setups
 - repo: macports
   srcname: security/zizmor
   binname: zizmor
@@ -248,17 +259,6 @@
   srcname: zizmor
   visiblename: zizmor
   version: 0.2.1
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.8.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
