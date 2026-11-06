@@ -1,12 +1,10 @@
-- repo: nix_stable_25_05
-  srcname: zizmor
+- repo: scoop
+  subrepo: main
+  binname: zizmor
   visiblename: zizmor
-  version: 1.8.0
+  version: 1.32.0
   origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
+  status: newest
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -68,9 +66,9 @@
     - zizmor
     - zizmor-debuginfo
   visiblename: zizmor
-  version: 1.31.1
-  origversion: 1.31.1-alt1
-  status: outdated
+  version: 1.32.0
+  origversion: 1.32.0-alt1
+  status: newest
   summary: Static analysis for GitHub Actions
   maintainers:
     - dutyrok@altlinux.org
@@ -204,9 +202,9 @@
   srcname: security/zizmor
   binname: zizmor
   visiblename: zizmor
-  version: 1.30.1
+  version: 1.32.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A static analysis tool for GitHub Actions
   maintainers:
     - halostatue@github
@@ -259,6 +257,17 @@
   srcname: zizmor
   visiblename: zizmor
   version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.8.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
@@ -367,15 +376,6 @@
   origversion: null
   status: newest
   summary: Static analysis for GitHub Actions
-- repo: scoop
-  subrepo: main
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.32.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: slackbuilds
   srcname: development/zizmor
   visiblename: development/zizmor
