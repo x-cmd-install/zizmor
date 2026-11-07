@@ -1,12 +1,3 @@
-- repo: scoop
-  subrepo: main
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.32.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -212,6 +203,28 @@
     - MIT
   categories:
     - security
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.30.1
+  origversion: 1.30.1-1
+  status: outdated
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.31.1
+  origversion: 1.31.1-1
+  status: outdated
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: zizmor
@@ -349,9 +362,9 @@
     - zizmor-fish-completion
     - zizmor-zsh-completion
   visiblename: zizmor
-  version: 1.31.1
-  origversion: 1.31.1-83.1
-  status: outdated
+  version: 1.32.0
+  origversion: 1.32.0-84.1
+  status: newest
   summary: A static analysis tool for GitHub Actions
   licenses:
     - MIT
@@ -376,12 +389,21 @@
   origversion: null
   status: newest
   summary: Static analysis for GitHub Actions
+- repo: scoop
+  subrepo: main
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.32.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: slackbuilds
   srcname: development/zizmor
   visiblename: development/zizmor
-  version: 1.31.1
+  version: 1.32.0
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - andrew.clemons@gmail.com
   categories:
