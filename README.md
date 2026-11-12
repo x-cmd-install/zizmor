@@ -14,12 +14,12 @@ x install zizmor
 
 ## Code insight
 
-Total: **70,478** lines of code across **569** files in the top 5 languages.
+Total: **70,472** lines of code across **569** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 46,800 | 2,468 | 5,404 | 169 |
-| Json | 12,672 | 0 | 114 | 37 |
+| Json | 12,673 | 0 | 114 | 37 |
 | Yaml | 9,483 | 1,151 | 1,604 | 336 |
 | Python | 867 | 116 | 207 | 13 |
 | Toml | 381 | 10 | 49 | 14 |
@@ -38,22 +38,22 @@ Total: **70,478** lines of code across **569** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,965 · **Forks**: 281 · **Open issues**: 746 · **Contributors**: 119
+- **Stars**: 6,989 · **Forks**: 283 · **Open issues**: 746 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 1581 · **Open PRs**: 26 · **Closed issues**: 598 · **Open issues**: 148 · **Commits**: 1661
+- **Releases**: 95 · **Merged PRs**: 1582 · **Open PRs**: 28 · **Closed issues**: 598 · **Open issues**: 148 · **Commits**: 1662
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-12 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-13 | 7 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-15 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-16 | 37 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-21 | 82 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-13 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-13 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-14 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-16 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-17 | 37 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-22 | 81 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -72,7 +72,7 @@ Reported by **36** distros on [repology.org](https://repology.org/project/zizmor
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.31.1` | ⚠️ outdated |
-| Homebrew | `1.32.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.32.0` | ✅ latest |
 | Alpine edge | `1.27.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.32.0` | ✅ latest |
@@ -86,4 +86,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:44:18Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:55:06Z._
