@@ -1,34 +1,19 @@
-- repo: manjaro_stable
-  subrepo: extra
+- repo: homebrew
   srcname: zizmor
-  binname: zizmor
   visiblename: zizmor
-  version: 1.30.1
-  origversion: 1.30.1-1
-  status: outdated
-  summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find security issues in GitHub Actions setups
+- repo: nix_stable_25_11
   srcname: zizmor
-  binname: zizmor
   visiblename: zizmor
-  version: 1.31.1
-  origversion: 1.31.1-1
+  version: 1.19.0
+  origversion: null
   status: outdated
-  summary: A static analysis tool for GitHub Actions
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: zizmor
-  binname: zizmor
-  visiblename: zizmor
-  version: 1.31.1
-  origversion: 1.31.1-1
-  status: outdated
-  summary: A static analysis tool for GitHub Actions
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
   licenses:
     - MIT
 - repo: alpine_3_24
@@ -215,13 +200,6 @@
   origversion: null
   status: newest
   summary: Find security issues in GitHub Actions setups
-- repo: homebrew
-  srcname: zizmor
-  visiblename: zizmor
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Find security issues in GitHub Actions setups
 - repo: macports
   srcname: security/zizmor
   binname: zizmor
@@ -236,6 +214,39 @@
     - MIT
   categories:
     - security
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.30.1
+  origversion: 1.30.1-1
+  status: outdated
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.31.1
+  origversion: 1.31.1-1
+  status: outdated
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: zizmor
+  binname: zizmor
+  visiblename: zizmor
+  version: 1.31.1
+  origversion: 1.31.1-1
+  status: outdated
+  summary: A static analysis tool for GitHub Actions
+  licenses:
+    - MIT
 - repo: msys2_clang64
   srcname: mingw-w64-zizmor
   binname: mingw-w64-clang-x86_64-zizmor
@@ -281,17 +292,6 @@
   srcname: zizmor
   visiblename: zizmor
   version: 1.8.0
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.19.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
