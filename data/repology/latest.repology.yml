@@ -1,14 +1,18 @@
-- repo: homebrew
+- repo: nix_stable_25_05
   srcname: zizmor
   visiblename: zizmor
-  version: HEAD
+  version: 1.8.0
   origversion: null
-  status: rolling
-  summary: Find security issues in GitHub Actions setups
-- repo: nix_stable_25_11
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
   srcname: zizmor
   visiblename: zizmor
-  version: 1.19.0
+  version: 0.2.1
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
@@ -200,6 +204,13 @@
   origversion: null
   status: newest
   summary: Find security issues in GitHub Actions setups
+- repo: homebrew
+  srcname: zizmor
+  visiblename: zizmor
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find security issues in GitHub Actions setups
 - repo: macports
   srcname: security/zizmor
   binname: zizmor
@@ -277,21 +288,10 @@
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: nix_stable_24_11
+- repo: nix_stable_25_11
   srcname: zizmor
   visiblename: zizmor
-  version: 0.2.1
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.8.0
+  version: 1.19.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
@@ -363,7 +363,7 @@
     - zizmor-zsh-completion
   visiblename: zizmor
   version: 1.32.0
-  origversion: 1.32.0-84.1
+  origversion: 1.32.0-85.2
   status: newest
   summary: A static analysis tool for GitHub Actions
   licenses:
