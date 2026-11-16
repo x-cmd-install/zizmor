@@ -1,7 +1,7 @@
-- repo: nix_stable_25_05
+- repo: nix_stable_25_11
   srcname: zizmor
   visiblename: zizmor
-  version: 1.8.0
+  version: 1.19.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
@@ -13,6 +13,17 @@
   srcname: zizmor
   visiblename: zizmor
   version: 0.2.1
+  origversion: null
+  status: outdated
+  summary: Tool for finding security issues in GitHub Actions setups
+  maintainers:
+    - thomas@gerbet.me
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.8.0
   origversion: null
   status: outdated
   summary: Tool for finding security issues in GitHub Actions setups
@@ -52,7 +63,7 @@
   binname: zizmor
   visiblename: zizmor
   version: 1.27.0
-  origversion: 1.27.0-r0
+  origversion: 1.27.0-r1
   status: outdated
   summary: A static analysis tool for GitHub Actions
   maintainers:
@@ -65,7 +76,7 @@
   binname: zizmor-doc
   visiblename: zizmor-doc
   version: 1.27.0
-  origversion: 1.27.0-r0
+  origversion: 1.27.0-r1
   status: outdated
   summary: A static analysis tool for GitHub Actions (documentation)
   maintainers:
@@ -288,17 +299,6 @@
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
     - spdx:MIT
-- repo: nix_stable_25_11
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.19.0
-  origversion: null
-  status: outdated
-  summary: Tool for finding security issues in GitHub Actions setups
-  maintainers:
-    - thomas@gerbet.me
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: zizmor
   visiblename: zizmor
