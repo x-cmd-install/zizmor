@@ -1,24 +1,10 @@
-- repo: slackbuilds
-  srcname: development/zizmor
-  visiblename: development/zizmor
-  version: 1.32.0
-  origversion: null
-  status: newest
-  maintainers:
-    - andrew.clemons@gmail.com
-  categories:
-    - development
-- repo: chimera
-  subrepo: user
+- repo: homebrew
   srcname: zizmor
-  binname: zizmor-zshcomp
-  visiblename: zizmor-zshcomp
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions (zsh completions)
-  licenses:
-    - MIT
+  visiblename: zizmor
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find security issues in GitHub Actions setups
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -45,6 +31,13 @@
     - tbperrotta@gmail.com
   licenses:
     - MIT
+- repo: homebrew
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.32.0
+  origversion: null
+  status: newest
+  summary: Find security issues in GitHub Actions setups
 - repo: alpine_edge
   subrepo: community
   srcname: zizmor
@@ -166,6 +159,17 @@
   summary: Static analysis for GitHub Actions (nu completions)
   licenses:
     - MIT
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor-zshcomp
+  visiblename: zizmor-zshcomp
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions (zsh completions)
+  licenses:
+    - MIT
 - repo: crates_io
   srcname: zizmor
   visiblename: zizmor
@@ -185,20 +189,6 @@
     - tagattie@freebsd.org
   categories:
     - devel
-- repo: homebrew
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.32.0
-  origversion: null
-  status: newest
-  summary: Find security issues in GitHub Actions setups
-- repo: homebrew
-  srcname: zizmor
-  visiblename: zizmor
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Find security issues in GitHub Actions setups
 - repo: macports
   srcname: security/zizmor
   binname: zizmor
@@ -408,3 +398,13 @@
   status: newest
   licenses:
     - MIT
+- repo: slackbuilds
+  srcname: development/zizmor
+  visiblename: development/zizmor
+  version: 1.32.0
+  origversion: null
+  status: newest
+  maintainers:
+    - andrew.clemons@gmail.com
+  categories:
+    - development
