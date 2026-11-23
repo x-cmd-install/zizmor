@@ -14,13 +14,13 @@ x install zizmor
 
 ## Code insight
 
-Total: **70,889** lines of code across **570** files in the top 5 languages.
+Total: **70,937** lines of code across **572** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 47,206 | 2,497 | 5,453 | 169 |
+| Rust | 47,235 | 2,505 | 5,460 | 169 |
 | Json | 12,628 | 0 | 114 | 36 |
-| Yaml | 9,488 | 1,152 | 1,604 | 337 |
+| Yaml | 9,507 | 1,152 | 1,604 | 339 |
 | Python | 868 | 117 | 208 | 13 |
 | Toml | 426 | 10 | 59 | 15 |
 
@@ -32,50 +32,50 @@ Total: **70,889** lines of code across **570** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.32.0` (2026-11-02)
-- **Last commit**: 2026-11-19
+- **Latest**: `v1.33.1` (2026-11-22)
+- **Last commit**: 2026-11-22
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 7,114 · **Forks**: 289 · **Open issues**: 749 · **Contributors**: 119
+- **Stars**: 7,121 · **Forks**: 289 · **Open issues**: 750 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 1594 · **Open PRs**: 29 · **Closed issues**: 601 · **Open issues**: 148 · **Commits**: 1674
+- **Releases**: 97 · **Merged PRs**: 1599 · **Open PRs**: 31 · **Closed issues**: 603 · **Open issues**: 147 · **Commits**: 1679
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-27 | 36 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-02 | 80 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 38 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 82 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [zizmor-aarch64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-aarch64-apple-darwin.tar.gz) | 8.2 MiB | `native/darwin/arm64` |
-| [zizmor-aarch64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-aarch64-unknown-linux-gnu.tar.gz) | 8.6 MiB | `native/linux/arm64/glibc` |
-| [zizmor-x86_64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-x86_64-apple-darwin.tar.gz) | 8.7 MiB | `native/darwin/x64` |
-| [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-x86_64-pc-windows-msvc.zip) | 8.1 MiB | `native/win/x64` |
-| [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 9.0 MiB | `native/linux/x64/glibc` |
+| [zizmor-aarch64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-aarch64-apple-darwin.tar.gz) | 9.1 MiB | `native/darwin/arm64` |
+| [zizmor-aarch64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-aarch64-unknown-linux-gnu.tar.gz) | 9.4 MiB | `native/linux/arm64/glibc` |
+| [zizmor-x86_64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/x64` |
+| [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-pc-windows-msvc.zip) | 8.9 MiB | `native/win/x64` |
+| [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/x64/glibc` |
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/zizmor). **13** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/zizmor). **7** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.31.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.32.0` | ✅ latest |
+| Arch | `1.33.0` | ⚠️ outdated |
+| Homebrew | `1.33.1` | ✅ latest |
+| Nix unstable | `1.32.0` | ⚠️ outdated |
 | Alpine edge | `1.27.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.32.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.32.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:33:55Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:59:45Z._

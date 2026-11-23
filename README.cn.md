@@ -14,13 +14,13 @@ x install zizmor
 
 ## 代码洞察
 
-合计: **70,889** 行代码（覆盖前 5 种语言、共 **570** 个文件）。
+合计: **70,937** 行代码（覆盖前 5 种语言、共 **572** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 47,206 | 2,497 | 5,453 | 169 |
+| Rust | 47,235 | 2,505 | 5,460 | 169 |
 | Json | 12,628 | 0 | 114 | 36 |
-| Yaml | 9,488 | 1,152 | 1,604 | 337 |
+| Yaml | 9,507 | 1,152 | 1,604 | 339 |
 | Python | 868 | 117 | 208 | 13 |
 | Toml | 426 | 10 | 59 | 15 |
 
@@ -32,50 +32,50 @@ x install zizmor
 
 ## 发布
 
-- **最新版本**: `v1.32.0` (2026-11-02)
-- **最近提交**: 2026-11-19
+- **最新版本**: `v1.33.1` (2026-11-22)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 7,114 · **Fork**: 289 · **开放 issue**: 749 · **贡献者**: 119
+- **Star**: 7,121 · **Fork**: 289 · **开放 issue**: 750 · **贡献者**: 119
 
 ## 累计统计
 
-- **发布数**: 95 · **已合并 PR**: 1594 · **开放 PR**: 29 · **已关闭 issue**: 601 · **开放 issue**: 148 · **提交数**: 1674
+- **发布数**: 97 · **已合并 PR**: 1599 · **开放 PR**: 31 · **已关闭 issue**: 603 · **开放 issue**: 147 · **提交数**: 1679
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-24 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-26 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-27 | 36 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-02 | 80 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-24 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-27 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-28 | 38 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-03 | 82 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [zizmor-aarch64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-aarch64-apple-darwin.tar.gz) | 8.2 MiB | `native/darwin/arm64` |
-| [zizmor-aarch64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-aarch64-unknown-linux-gnu.tar.gz) | 8.6 MiB | `native/linux/arm64/glibc` |
-| [zizmor-x86_64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-x86_64-apple-darwin.tar.gz) | 8.7 MiB | `native/darwin/x64` |
-| [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-x86_64-pc-windows-msvc.zip) | 8.1 MiB | `native/win/x64` |
-| [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.32.0/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 9.0 MiB | `native/linux/x64/glibc` |
+| [zizmor-aarch64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-aarch64-apple-darwin.tar.gz) | 9.1 MiB | `native/darwin/arm64` |
+| [zizmor-aarch64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-aarch64-unknown-linux-gnu.tar.gz) | 9.4 MiB | `native/linux/arm64/glibc` |
+| [zizmor-x86_64-apple-darwin.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-apple-darwin.tar.gz) | 9.6 MiB | `native/darwin/x64` |
+| [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-pc-windows-msvc.zip) | 8.9 MiB | `native/win/x64` |
+| [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/x64/glibc` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/zizmor) 上共有 **36** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/zizmor) 上共有 **36** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**27** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.31.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `1.32.0` | ✅ latest |
+| Arch | `1.33.0` | ⚠️ outdated |
+| Homebrew | `1.33.1` | ✅ latest |
+| Nix unstable | `1.32.0` | ⚠️ outdated |
 | Alpine edge | `1.27.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.32.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.32.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ zizmor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T08:33:56Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T08:59:46Z._
