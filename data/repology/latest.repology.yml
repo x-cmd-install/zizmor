@@ -1,3 +1,28 @@
+- repo: homebrew
+  srcname: zizmor
+  visiblename: zizmor
+  version: 1.33.1
+  origversion: null
+  status: newest
+  summary: Find security issues in GitHub Actions setups
+- repo: homebrew
+  srcname: zizmor
+  visiblename: zizmor
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find security issues in GitHub Actions setups
+- repo: chimera
+  subrepo: user
+  srcname: zizmor
+  binname: zizmor-fishcomp
+  visiblename: zizmor-fishcomp
+  version: 1.16.0
+  origversion: 1.16.0-r0
+  status: outdated
+  summary: Static analysis for GitHub Actions (fish completions)
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: zizmor
@@ -126,17 +151,6 @@
 - repo: chimera
   subrepo: user
   srcname: zizmor
-  binname: zizmor-fishcomp
-  visiblename: zizmor-fishcomp
-  version: 1.16.0
-  origversion: 1.16.0-r0
-  status: outdated
-  summary: Static analysis for GitHub Actions (fish completions)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: zizmor
   binname: zizmor-nucomp
   visiblename: zizmor-nucomp
   version: 1.16.0
@@ -175,20 +189,6 @@
     - tagattie@freebsd.org
   categories:
     - devel
-- repo: homebrew
-  srcname: zizmor
-  visiblename: zizmor
-  version: 1.33.1
-  origversion: null
-  status: newest
-  summary: Find security issues in GitHub Actions setups
-- repo: homebrew
-  srcname: zizmor
-  visiblename: zizmor
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Find security issues in GitHub Actions setups
 - repo: macports
   srcname: security/zizmor
   binname: zizmor
@@ -208,8 +208,8 @@
   srcname: zizmor
   binname: zizmor
   visiblename: zizmor
-  version: 1.30.1
-  origversion: 1.30.1-1
+  version: 1.31.1
+  origversion: 1.31.1-1
   status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
@@ -230,8 +230,8 @@
   srcname: zizmor
   binname: zizmor
   visiblename: zizmor
-  version: 1.31.1
-  origversion: 1.31.1-1
+  version: 1.33.0
+  origversion: 1.33.0-1
   status: outdated
   summary: A static analysis tool for GitHub Actions
   licenses:
@@ -240,8 +240,8 @@
   srcname: mingw-w64-zizmor
   binname: mingw-w64-clang-x86_64-zizmor
   visiblename: mingw-w64-clang-x86_64-zizmor
-  version: 1.31.1
-  origversion: 1.31.1-1
+  version: 1.33.0
+  origversion: 1.33.0-1
   status: outdated
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
@@ -250,8 +250,8 @@
   srcname: mingw-w64-zizmor
   binname: mingw-w64-clang-aarch64-zizmor
   visiblename: mingw-w64-clang-aarch64-zizmor
-  version: 1.31.1
-  origversion: 1.31.1-1
+  version: 1.33.0
+  origversion: 1.33.0-1
   status: outdated
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
@@ -260,8 +260,8 @@
   srcname: mingw-w64-zizmor
   binname: mingw-w64-ucrt-x86_64-zizmor
   visiblename: mingw-w64-ucrt-x86_64-zizmor
-  version: 1.31.1
-  origversion: 1.31.1-1
+  version: 1.33.0
+  origversion: 1.33.0-1
   status: outdated
   summary: A static analysis tool for GitHub Actions (mingw-w64)
   licenses:
