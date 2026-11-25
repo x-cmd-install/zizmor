@@ -38,7 +38,7 @@ Total: **70,937** lines of code across **572** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,139 · **Forks**: 289 · **Open issues**: 750 · **Contributors**: 119
+- **Stars**: 7,158 · **Forks**: 288 · **Open issues**: 750 · **Contributors**: 119
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **70,937** lines of code across **572** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 38 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 81 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 81 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -65,18 +65,6 @@ Total: **70,937** lines of code across **572** files in the top 5 languages.
 | [zizmor-x86_64-pc-windows-msvc.zip](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-pc-windows-msvc.zip) | 8.9 MiB | `native/win/x64` |
 | [zizmor-x86_64-unknown-linux-gnu.tar.gz](https://github.com/woodruffw/zizmor/releases/download/v1.33.1/zizmor-x86_64-unknown-linux-gnu.tar.gz) | 9.8 MiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **36** distros on [repology.org](https://repology.org/project/zizmor). **7** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.33.0` | ⚠️ outdated |
-| Homebrew | `1.33.1` | ✅ latest |
-| Nix unstable | `1.32.0` | ⚠️ outdated |
-| Alpine edge | `1.27.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.32.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zizmor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +74,4 @@ Install metadata for zizmor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:38:15Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:17:08Z._
